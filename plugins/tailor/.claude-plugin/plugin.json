@@ -1,0 +1,7 @@
+{
+  "name": "tailor",
+  "description": "Configure Stitchwork automations by conversation. Tailor drives the Stitchwork MCP tools so you never touch permission sets, RRULEs, or prompts by hand.",
+  "author": {
+    "name": "Blink Build Studios"
+  }
+}

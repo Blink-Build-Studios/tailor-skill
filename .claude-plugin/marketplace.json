@@ -1,0 +1,13 @@
+{
+  "name": "tailor",
+  "owner": {
+    "name": "Blink Build Studios"
+  },
+  "plugins": [
+    {
+      "name": "tailor",
+      "source": "./plugins/tailor",
+      "description": "Tailor — configure Stitchwork automations by conversation. Drives the Stitchwork MCP tools so you never touch permission sets, RRULEs, or prompts by hand. Requires the tailor MCP server (see app.stitchwork.ai)."
+    }
+  ]
+}
